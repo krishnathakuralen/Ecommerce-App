@@ -1,4 +1,4 @@
-package com.ecommerce.ecommApp.products.tables;
+package com.ecommerce.ecommApp.products.models;
 
 import javax.persistence.Table;
 
